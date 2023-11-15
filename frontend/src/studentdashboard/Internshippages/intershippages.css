@@ -1,0 +1,27 @@
+.ImageoftheIntershippage {
+    height: 400px;
+    width: 400px;
+
+}
+
+.paraoftheIntershippage {
+    padding-top: 50px;
+    line-height: 30px;
+    font-size: larger;
+}
+
+.containeroftheInternshippage {
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+.buttonoftheIntershippage {
+    text-align: end;
+    margin-left: 1000px;
+    height: 35px;
+    width: fit-content;
+}
+
+.h1oftheInternshippage {
+    text-align: center;
+}
